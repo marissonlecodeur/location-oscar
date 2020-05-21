@@ -105,4 +105,4 @@ async def regles(ctx):
 print("Lancement du bot...")
 
 # connecter au serveur
-bot.run("")
+bot.run("process.env.TOKEN")
